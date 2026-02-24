@@ -1,6 +1,14 @@
 # secure-link-encrypted-communication
 Hybrid cryptography-based secure communication system using RSA, DES, Diffie–Hellman key exchange, SHA-256 hashing, and digital signatures.
 
+ Project Highlights
+
+- Modular cryptographic implementation
+- Simulated secure client-server architecture
+- Hybrid encryption model
+- Secure key exchange using Diffie-Hellman
+- Integrity verification using SHA-256
+- Authentication using Digital Signatures
 
 Secure-Link: Encrypted Communication Suite
 
